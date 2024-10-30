@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhozey" alt="xhozey" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Tailwind CSS**
+- 🌱 I’m currently learning **React.js, Tailwind CSS**
 
 - 💬 Ask me about **Golang, JavaScript, NodeJS**
 
