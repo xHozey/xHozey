@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
-<img src="https://getwallpapers.com/wallpaper/full/5/b/2/39047.jpg" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xhozey&label=Profile%20views&color=0e75b6&style=flat" alt="xhozey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xhozey" alt="xhozey" /></a> </p>
