@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 👨‍💻 All of my projects are available at [saliheddine.me]([https://saliheddine.vercel.app/](https://www.saliheddine.me/))
+- 👨‍💻 All of my projects are available at [saliheddine.me](https://www.saliheddine.me/)
 
 - 💬 Ask me about **rust, golang**
 
